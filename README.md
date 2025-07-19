@@ -2,7 +2,7 @@
 <h3 align="center">💻 Java Developer | 🤖 Bot Builder | 📍 Yeola/Nashik, India</h3>
 
 <p align="center">
-  🚀 20 y/o passionate about crafting real-world apps and exploring AI.  
+  🚀 20 y/o passionate about crafting real-world apps and exploring AI.  <br>
   When I’m not writing code, I’m chasing sunsets and finding freedom on the road.
 </p>
 
@@ -48,11 +48,11 @@
 
 ### 🧠 About Me
 
-- 🏡 **From:** Yeola / Nashik, Maharashtra 🇮🇳  
-- 🧰 **What I Do:** Build intelligent bots & real-world AI apps  
-- 🌄 **Beyond Code:** Solo traveler, sunset chaser, mountain soul  
-- 🧭 **Vibe:** Code. Travel. Grow. Repeat.  
-- 📖 **Philosophy:** Always learning. Always evolving.
+- 🏡 **Based In:** Yeola / Nashik, Maharashtra 🇮🇳  
+- 💼 **What I Do:** Craft intelligent bots & real-world AI applications.  
+- ✈️ **Beyond Code:** Solo traveler, sunset chaser, and a true mountain soul.  
+- ✨ **My Vibe:** Code. Travel. Grow. Repeat.  
+- 📚 **Philosophy:** Committed to continuous learning and evolving.
 
 ---
 
