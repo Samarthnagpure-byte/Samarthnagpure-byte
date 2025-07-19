@@ -1,8 +1,9 @@
 <h1 align="center">Hey there! I'm Samarth Nagpure 👋</h1>
-<h3 align="center">💻 Java Developer | 🤖 Bot Builder | 📍 Nashik, India</h3>
+<h3 align="center">💻 Java Developer | 🤖 Bot Builder | 📍 Yeola/Nashik, India</h3>
 
 <p align="center">
-  🚀 A 20-year-old passionate about crafting real-world applications and exploring the exciting world of AI. When I'm not coding, you'll find me chasing sunsets and embracing new adventures!
+  🚀 20 y/o passionate about crafting real-world apps and exploring AI.  
+  When I’m not writing code, I’m chasing sunsets and finding freedom on the road.
 </p>
 
 ---
@@ -29,29 +30,32 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  </p>
+</p>
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samarthnagpure-byte&theme=dark&hide_border=false&show_icons=true&rank_icon=github" alt="Samarth's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samarthnagpure-byte&theme=dark&hide_border=false&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Samarthnagpure-byte&theme=dark&hide_border=false" alt="Samarth's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Samarthnagpure-byte&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthnagpure-byte&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
 </p>
 
 ---
 
-### 🎯 About Me
+### 🧠 About Me
 
-* **Location:** Yeola/Nashik, India 🇮🇳
-* **Focus:** Building intelligent bots and innovative AI applications.
-* **Passion:** Always exploring the perfect balance between **coding, traveling, and personal growth**.
-* **Motto:** Constantly learning, evolving, and vibing with life's exciting journey!
+- 🏡 **From:** Yeola / Nashik, Maharashtra 🇮🇳  
+- 🧰 **What I Do:** Build intelligent bots & real-world AI apps  
+- 🌄 **Beyond Code:** Solo traveler, sunset chaser, mountain soul  
+- 🧭 **Vibe:** Code. Travel. Grow. Repeat.  
+- 📖 **Philosophy:** Always learning. Always evolving.
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Samarthnagpure-byte&icon=0&color=0)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Samarthnagpure-byte&icon=0&color=0" alt="Visitor Count"/>
+</p>
