@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! I'm Samarth Nagpure 👋</h1>
-<h3 align="center">💻 Java Developer | 🤖 Bot Builder | 📍 Yeola/Nashik, India</h3>
+<h3 align="center">🚀 Founder of CodeWithSamarthX | 💻 Java Developer | 🤖 AI & Bot Builder | 📍 Yeola / Nashik, India</h3>
 
 <p align="center">
-  🚀 20 y/o passionate about crafting real-world apps and exploring AI.  <br>
-  When I’m not writing code, I’m chasing sunsets and finding freedom on the road.
+  20 y/o passionate about crafting intelligent apps, bots, and exploring the future of AI. <br>
+  When I’m not writing code, I’m chasing sunsets and riding toward freedom on open roads.
 </p>
 
 ---
@@ -48,11 +48,11 @@
 
 ### 🧠 About Me
 
-- 🏡 **Based In:** Yeola / Nashik, Maharashtra 🇮🇳  
-- 💼 **What I Do:** Craft intelligent bots & real-world AI applications.  
-- ✈️ **Beyond Code:** Solo traveler, sunset chaser, and a true mountain soul.  
-- ✨ **My Vibe:** Code. Travel. Grow. Repeat.  
-- 📚 **Philosophy:** Committed to continuous learning and evolving.
+- 🧪 **Building:** `CodeWithSamarthX` — a place for smart projects, bots, and dev tools  
+- 💼 **Work:** I create real-world applications with Java, Python & web tech  
+- 🤖 **Focus:** Intelligent bots, AI automation, and beautiful UX  
+- ✈️ **Beyond Code:** Solo traveler, sunset chaser, and a true mountain soul  
+- 📚 **Philosophy:** Code. Travel. Grow. Repeat.
 
 ---
 
