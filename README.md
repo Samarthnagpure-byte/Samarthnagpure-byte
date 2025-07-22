@@ -1,14 +1,14 @@
 <h1 align="center">Hey there! I'm Samarth Nagpure 👋</h1>
-<h3 align="center">🚀 Founder of CodeWithSamarthX | 💻 Java Developer | 🤖 AI & Bot Builder | 📍 Yeola / Nashik, India</h3>
+<h3 align="center">🚀 Founder of <strong>CodeWithSamarthX</strong> | 💻 Java Developer | 🤖 AI & Bot Builder | 📍 Yeola / Nashik, India</h3>
 
 <p align="center">
-  20 y/o passionate about crafting intelligent apps, bots, and exploring the future of AI. <br>
-  When I’m not writing code, I’m chasing sunsets and riding toward freedom on open roads.
+  <strong>20 y/o developer passionate about building real-world apps, smart bots, and AI tools.</strong><br>
+  When I’m not coding, I’m chasing sunsets and riding toward freedom on open roads.
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/samarthnagpure" target="_blank">
@@ -37,25 +37,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samarthnagpure-byte&theme=dark&hide_border=false&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithsamarthX&theme=dark&hide_border=false&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Samarthnagpure-byte&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=codewithsamarthX&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthnagpure-byte&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsamarthX&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🧪 **Building:** `CodeWithSamarthX` — a place for smart projects, bots, and dev tools  
-- 💼 **Work:** I create real-world applications with Java, Python & web tech  
-- 🤖 **Focus:** Intelligent bots, AI automation, and beautiful UX  
-- ✈️ **Beyond Code:** Solo traveler, sunset chaser, and a true mountain soul  
-- 📚 **Philosophy:** Code. Travel. Grow. Repeat.
+- 🧪 **Building:** `CodeWithSamarthX` — smart projects, bots, and dev tools  
+- 💼 **What I Do:** Build real-world apps with Java, Python, and web tech  
+- 🤖 **Focus:** AI automation, intelligent bots, and beautiful user experiences  
+- ✈️ **Beyond Code:** Solo traveler, sunset chaser, and mountain lover  
+- 📚 **Philosophy:** *Code. Travel. Grow. Repeat.*
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Samarthnagpure-byte&icon=0&color=0" alt="Visitor Count"/>
+  <img src="https://visitcount.itsvg.in/api?id=codewithsamarthX&icon=0&color=0" alt="Visitor Count"/>
 </p>
